@@ -1,0 +1,26 @@
+openpyxl
+strEnum
+pandas < 2.0
+numpy
+matplotlib
+jupyterlab
+scipy < 1.12.0
+plotly
+ujson
+jsonpickle
+mysql
+mysql-connector
+CoolProp
+ht
+ray
+pvlib
+geopy
+scikit-learn
+setuptools
+pytest
+
+#documentation
+sphinx
+sphinx-git
+sphinx_rtd_theme
+make

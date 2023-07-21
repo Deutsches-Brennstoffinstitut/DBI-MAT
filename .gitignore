@@ -1,0 +1,15 @@
+# python environment
+venv/
+.idea/
+
+#Sphinx documentation
+dbimat/docs/build
+/sphinx/build/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
